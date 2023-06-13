@@ -1,0 +1,18 @@
+.App{
+    width: 910px;
+}
+
+.main-visual{
+    display: flex;
+    background-color: rgb(89, 149, 238);
+}
+
+.main-left{
+    width: 60%;
+}
+
+.main-right{
+    width: 40%;
+    height: 300px;
+    overflow-y: scroll;
+}
